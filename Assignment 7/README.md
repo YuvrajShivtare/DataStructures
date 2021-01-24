@@ -10,4 +10,4 @@ Line n + 4 to 2n + 4 will have the elements of a bRn vector with each element on
 
 Use your matrix class to solve the system Mx=b.  Print x to the screen.
 
-You can find a sample file, mat.dat, here.
+You can find a sample file at: https://github.com/StevensDeptECE/CPE593/blob/master/Matrices/mat.dat

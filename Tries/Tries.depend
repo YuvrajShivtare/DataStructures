@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1574471928 source:c:\users\16466\onedrive - stevens.edu\cpp\tries\main.cpp
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+	<iostream>
+
+1573749950 source:c:\users\16466\onedrive - stevens.edu\cpp\tries\try.c
+
+1574373131 c:\users\16466\onedrive - stevens.edu\cpp\tries\linkedlist.h
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1574373178 c:\users\16466\onedrive - stevens.edu\cpp\tries\trie.h
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1574373097 c:\users\16466\onedrive - stevens.edu\cpp\tries\hashtable.h
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+

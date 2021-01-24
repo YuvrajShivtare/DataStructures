@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575467869 source:c:\users\16466\onedrive - stevens.edu\cpp\matrices\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<fstream>
+	<algorithm>
+

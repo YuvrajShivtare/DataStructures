@@ -1,3 +1,5 @@
+# Grow Array:
+
 Please follow these instructions carefully.  If you don’t understand something, ask before you submit your work.  Please do not be surprised if your failure to follow these instructions results in significant loss of points.
 Write a class GrowArray as discussed in class.  Your list is composed of 2D-points (floats). 
 

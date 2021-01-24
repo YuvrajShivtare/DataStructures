@@ -23,11 +23,11 @@ For example, the following input file (must be called hw2a.dat)
 11\
 11 10 9 8 7 6 5 4 3 2 1\
 6\
-5 4 4 4 4 1\
+5 4 4 4 4 1
  
 should output:\
 1 2 3 4 5 6 7 8 9 10\
 1 2 3 4 5 6 7 8 9 10\
 1 2 3 4 56 7 8 9 10 11\
 12 3 4 5 6 7 8 9 10 11\
-1 4 4 4 4 5\
+1 4 4 4 4 5
